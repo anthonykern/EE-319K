@@ -1,0 +1,3 @@
+Dependencies for Project 'Lab0', Target 'Lab0': (DO NOT MODIFY !)
+F (.\Startup.s)(0x5887929C)(--cpu Cortex-M4 -g --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Luminary--list .\startup.lst --xref -o .\startup.o --depend .\startup.d)
+F (.\main.s)(0x5887A7FB)(--cpu Cortex-M4 -g --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Luminary--list .\main.lst --xref -o .\main.o --depend .\main.d)

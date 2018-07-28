@@ -1,0 +1,24 @@
+XOR with 1- toggle
+AND with 0- clear 
+OR with 1- on
+
+LS (R/L) (#)
+/*AS (R/L) (#)*/
+
+**no looping/branching on lab0 
+InputOutput.asm --check it out 
+Windows to use
+	-Registers Window 
+	-Peripherals 
+
+If cant find microcontroller 
+	-little wand 
+	-make sure its set to simulate 
+
+Steps for reaching the LED 
+	-1. turn on the clock RCGPIO_R
+	-2. wait 2 cycles 
+	-3. data enable DEN_R
+	-4. directions  DIR_R
+	-5. alternate functions AFSEL_R
+	

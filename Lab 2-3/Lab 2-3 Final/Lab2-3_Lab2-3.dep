@@ -1,0 +1,4 @@
+Dependencies for Project 'Lab2-3', Target 'Lab2-3': (DO NOT MODIFY !)
+F (.\Startup.s)(0x589E12CD)(--cpu Cortex-M4.fp -g --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\TI\TM4C123--list .\startup.lst --xref -o .\startup.o --depend .\startup.d)
+F (.\main.s)(0x58A35CD9)(--cpu Cortex-M4.fp -g --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\TI\TM4C123--list .\main.lst --xref -o .\main.o --depend .\main.d)
+F (.\texas.o)(0x589E12CD)()

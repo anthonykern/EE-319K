@@ -1,0 +1,12 @@
+**Start**
+	LED/Delay SR
+loop
+	check for button
+		change LED/Delay varaiables 
+		Check if LED off is 0 
+	LED/Delay
+	BR loop
+
+LED/DElay 
+	LED  On 
+	LED Off 

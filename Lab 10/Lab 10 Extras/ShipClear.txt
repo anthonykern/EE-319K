@@ -1,0 +1,3 @@
+const unsigned short C:\Users\dmcau\Desktop\ShipC:\Users\dmcau\Desktop\ShipClear.txt
+ 0x0000, 0x0000, 0x0000, 0x0000, 0x0000, 0x0000, 0x0000, 0x0000,
+};
